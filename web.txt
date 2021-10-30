@@ -1,0 +1,21 @@
+How does the internet work?
+    From what I have learned during the module, I understand 
+    the internet to be a series of connections sending information 
+    to and forth. You can break down how the internet works by thinking
+    of three computers lined up from front to back in front of you. 
+    The computer closest to you is the front-end interface used by
+    people to access the internet (i.e. phone, tablet, laptop, etc.). The computer
+    behind it is a 'server' which sifts through information it recieves
+    and directs it to the appropriate place in the third computer, the 'database.'
+    The database stores vasts amount of information (think of long-term memory) while
+    the server keeps information for a shorter amount of time.
+
+What happens when you click a link?
+    From what I have learned during this module, when you
+    click a link on a site it sends a request to a server. 
+    Once the server recieves the request it parses through the 
+    type of data being requested and sources where to get it. Once
+    that data is retrieved from a back-end database it parsed
+    through the server and presented back to the front-end user 
+    requesting it. Clicking a link essential fires a series of actions
+    to happen behind the scenes between two other computers.
